@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">BMI kalkulator</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_bmi">BMI</string>
+    <string name="menu_calculator">Kalkulator</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_diets">Diety</string>
+    <string name="dieta2000">Dieta na 2000 kcal to dobry pomysł dla osób aktywnych w ciągu dnia jednocześnie chcących zredukować masę ciała czy też tych prowadzących siedzący tryb życia, ale pragnących utrzymać wagę. Może być stosowana zarówno przez kobiety jak i w niektórych przypadkach przez płeć przeciwną.</string>
+    <string name="dieta2500">Dieta 2500 kcal na przytycie sprawdzi się dla młodego mężczyzny o bardzo niskiej aktywności fizycznej. Ważne jest nie tyle zwiększenie ogólnej masy ciała, co zwiększenie komponentu jakim jest masa mięśniowa. Aby było to możliwe, plan żywieniowy powinno uzupełnić się odpowiednim treningiem siłowym, który wspomoże budowanie masy mięśniowej.</string>
+    <string name="dieta3000">Dieta 3000 Jadłospis uwzględnia dzienne zapotrzebowanie kaloryczne na poziomie 3000 kcal. Podana dieta na masę w optymalnym stopniu pokrywa też zapotrzebowanie na białko, węglowodany i tłuszcze, których odpowiednie proporcje są kluczowe w procesie budowy atletycznej sylwetki</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="omlet">Omlet z szynką - 96 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/27941">Omlet</a></string>
+    <string name="musli">Domowe musli - 410 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/771">Musli</a></string>
+    <string name="owsianka">Gruszkowo-jabłkowa owsianka - 160 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/7930">Owsianka</a></string>
+    <string name="owsianka_m">Malinowa owsianka - 103 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/69988">Owsianka</a></string>
+    <string name="curry">Dietetyczne curry z kurczaka z ryżem - 144 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/14393">Curry</a></string>
+    <string name="krem">Krem z kukurydzy - 44 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/7912">Krem</a></string>
+    <string name="chipsy">Chipsy marchewkowe - 81 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8268">Marchew</a></string>
+    <string name="botwinka">Wiosenna botwinka - 25 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8251">Botwinka</a></string>
+
+    <string name="muffinki_jajeczne_ze_szpiankiem">Muffinki jajeczne ze szpiankiem - 124 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/12110">Muffinki jajeczne ze szpiankiem</a></string>
+    <string name="smoothie_z_bananem_mango_i_szpinakiem">Smoothie z bananem, mango i szpinakiem - 44 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/27435">Smoothie z bananem, mango i szpinakiem</a></string>
+    <string name="placuszki_owsiane_z_owocami">placuszki owsiane z owocami  - 147 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8245">placuszki owsiane z owocami</a></string>
+    <string name="szybka_chrupiąca_sałatka_z_kiełkami_i_serem_feta">Szybka chrupiąca sałatka z kiełkami i serem feta   - 69 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/15770">Szybka chrupiąca sałatka z kiełkami i serem fetal</a></string>
+    <string name="zupa_meksykańska_z_nutką_chilli"> Zupa meksykańska z nutką chilli - 35 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8244"> Zupa meksykańska z nutką chilli - 35 kcal</a></string>
+    <string name="Pieczona_pierś_z_kurczaka_z_suszonymi_pomidorami_i_mozzarellą"> Pieczona pierś z kurczaka z suszonymi pomidorami i mozzarellą - 108 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/14910"> Pieczona pierś z kurczaka z suszonymi pomidorami i mozzarellą</a></string>
+    <string name="Marchewkowe_frytki"> Marchewkowe frytki - 66 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/763"> Marchewkowe frytki</a></string>
+    <string name="sałatka_z_pomidorkami_koktailowymi"> Sałatka z pomidorkami koktailowymi i pysznym kremowym sosem - 38 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/15774"> Sałatka z pomidorkami koktailowymi i pysznym kremowym sosem</a></string>
+
+    <string name="Placuszki_owsiane">Placuszki owsiane - 164 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8234">Placuszki owsiane</a></string>
+    <string name="budyń">Budyń z owocami - 121 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/58021">Budyń</a></string>
+    <string name="kanapka_z_awokado">Kanapka z awokado - 175 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/1925">Owsianka</a></string>
+    <string name="ryż_z_warzywami">Ryż z warzywami - 109 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/2015">Ryż</a></string>
+    <string name="deser_jabłkowy">Deser jabłkowy z orzechami - 100 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/4049">Deser</a></string>
+    <string name="Jogurt_z_migdałąmi">Jogurt z migdałami - 79 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/1902">Jogurt</a></string>
+    <string name="sałatka">Sałatka - 38 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/15774">Botwinka</a></string>
+    <string name="naleśniki">Naleśniki - 107 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/2152">Naleśniki</a></string>
+
+    <string name="placki">Placuszki owsiane z dżemem - 216 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8232">Placki</a></string>
+    <string name="jogurt">Jogurt z borówkami i migdałami - 79 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/1902">Jogurt</a></string>
+    <string name="mango">Indyjskie orzeźwienie - mango lassi  - 70 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/8318">Mango</a></string>
+    <string name="jajecznica">Jajecznica z łososiem - 197 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/28671">Jajecznica</a></string>
+    <string name="rybna">Zupa rybna z makaronem  - 53 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/3842">Rybna</a></string>
+    <string name="tunczyk">Tuńczyk z w sosie pesto z bazylii  - 115 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/7912">Tunczyk</a></string>
+    <string name="serek">Serek wiejski z jabłkiem - 78 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/1919">Serek</a></string>
+    <string name="tortilla">Warzywna tortilla z orzechami nerkowca - 102 kcal Link: <a href="https://kalkulatorkalorii.net/przepis/4215">Tortilla</a></string>
+</resources>
+
+
+

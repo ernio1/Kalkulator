@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_bmi">
+
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="pl.lechanski.kalkulator.ui.calculator.CalculatorFragment"
+        android:label="@string/menu_calculator"
+        tools:layout="@layout/fragment_bmi" />
+
+    <fragment
+        android:id="@+id/nav_bmi"
+        android:name="pl.lechanski.kalkulator.ui.bmi.BmiFragment"
+        android:label="@string/menu_bmi"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/nav_diets"
+        android:name="pl.lechanski.kalkulator.ui.diets.DietsFragment"
+        android:label="@string/menu_diets"
+        tools:layout="@layout/fragment_calculator" />
+</navigation>
